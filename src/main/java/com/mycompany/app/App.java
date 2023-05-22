@@ -19,7 +19,7 @@ public class App {
     public String getMessage() {
         return MESSAGE;
     }
-    public void newMessage() {return "Hello";}
+    public String newMessage() {return "Hello";}
 }
 
 
